@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-site",
+  "homepage": "https://github.com/lightme16/Restorante-site",
+  "authors": [
+    "lightme16 <sanyazveruk@gmail.com>"
+  ],
+  "description": "Website for the restaurant",
+  "main": "index.html",
+  "keywords": [
+    "restaurant"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
